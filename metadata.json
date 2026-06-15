@@ -1,0 +1,6 @@
+{
+  "name": "SpeakMaster AI",
+  "description": "Treinador pessoal inteligente de oratória e comunicação com Inteligência Artificial para vencer o medo de falar em público.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
